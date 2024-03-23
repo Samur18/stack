@@ -74,7 +74,7 @@ MONGODB_SERVER = "localhost"
 MONGODB_PORT = 27017
 MONGODB_DB = "stackoverflow"
 MONGODB_COLLECTION = "questions"
-MONGODB_URI = "mongodb+srv://srijks:<Lego1808>@samur18.rvjpy7y.mongodb.net/?retryWrites=true&w=majority&appName=Samur18"
+MONGODB_URI = "mongodb+srv://<newUser>:<C5YFTO8NH6Z6boJI>@samur18.rvjpy7y.mongodb.net/?retryWrites=true&w=majority&appName=Samur18"
 
 
 # Enable and configure the AutoThrottle extension (disabled by default)
